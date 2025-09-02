@@ -1,0 +1,1 @@
+{"uuid":"c7191278-82d3-4f27-ac46-05acdeef3e68","name":"Default Suite","children":["5708118b-5bdc-4d49-ac7c-244905495d72"],"befores":[{"name":"setUpAPIClient","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1754995341360,"stop":1754995341372}],"afters":[],"start":1754995341323,"stop":1754995343301}
